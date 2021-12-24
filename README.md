@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Me](https://user-images.githubusercontent.com/39555267/147298835-62c9791f-d639-49c0-ae59-6ca32574491f.png)
 
+![Me](https://user-images.githubusercontent.com/39555267/147300937-2c2e49b2-8673-496f-b3b6-a3d7dbcd52ca.jpg)
 ...coming soon
 <!--
 **mostafakanaan/mostafakanaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
