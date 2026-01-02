@@ -1,4 +1,4 @@
-## Hi, I’m Mustafa 👋  
+## Hi, I’m Mustafa (or Mostafa, same Arabic spelling no breaking changes 😄)
 **Full-Stack Software Engineer | .NET · Web · Cloud**
 
 I build scalable web applications and internal platforms with a strong focus on clean architecture, maintainability, and user experience.  
@@ -51,13 +51,6 @@ Currently working full-time as a full-stack developer and continuously refining 
 - Developer experience & automation  
 - Building tools that solve real problems
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafakanaan&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakanaan&layout=compact&theme=dark" height="165"/>
-</p>
 
 ---
 
