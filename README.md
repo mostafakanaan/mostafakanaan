@@ -6,24 +6,6 @@ Currently working full-time as a full-stack developer and continuously refining 
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://github.com/mostafakanaan">
-    <img src="https://img.shields.io/github/followers/mostafakanaan?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/mos-kan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mkanaan_de">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_mkanaan_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-black?logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🧠 Tech Stack
 
 #### Frontend
@@ -55,3 +37,21 @@ Currently working full-time as a full-stack developer and continuously refining 
 ---
 
 💡 *Pinned repositories highlight projects I’m proud of and actively maintain.*
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://github.com/mostafakanaan">
+    <img src="https://img.shields.io/github/followers/mostafakanaan?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/mos-kan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mkanaan_de">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_mkanaan_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-black?logo=instagram&logoColor=white" />
+  </a>
+</p>
