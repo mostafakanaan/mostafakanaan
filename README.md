@@ -1,73 +1,64 @@
-## <div align="center"> <p>Hello there 👋<br>Welcome to my GitHub profile!</p> </div> 
+## Hi, I’m Mustafa 👋  
+**Full-Stack Software Engineer | .NET · Web · Cloud**
 
-[![GitHub followers](https://img.shields.io/github/followers/mostafakanaan?style=social)](https://github.com/mostafakanaan?tab=followers) 
+I build scalable web applications and internal platforms with a strong focus on clean architecture, maintainability, and user experience.  
+Currently working full-time as a full-stack developer and continuously refining my craft.
 
-### <div align="center">I'm Mustafa, a full-time full-stack developer 👨‍💻
-##### <div align="center">🌟 Elevating my web development skills and eager to team up on captivating projects! 🚀
+---
 
-![Me](https://github.com/mostafakanaan/mostafa.kanaan/assets/39555267/ac182eac-7589-4cb2-b284-a6c75c69c466)
-  
-<div align="center"> <a href="https://github.com/mostafakanaan" target="_blank"> <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a><a href="https://twitter.com/mkanaan_de" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a><a href="https://linkedin.com/in/mos-kan" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><a href="https://instagram.com/_mkanaan_" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a></div>
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://github.com/mostafakanaan">
+    <img src="https://img.shields.io/github/followers/mostafakanaan?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/mos-kan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mkanaan_de">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_mkanaan_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-black?logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-</br>
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 🧠 Tech Stack
 
+#### Frontend
+- HTML, CSS, Sass, JavaScript, TypeScript  
+- Vue.js, React  
+- Bootstrap, modern UI patterns  
+- Blazor / .NET frontend
 
+#### Backend
+- C# / .NET (APIs, services, background jobs)  
+- Java, Scala, Python, PHP  
+- SQL (MySQL, SQL Server)  
+- Domain-driven design & clean architecture
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-</div>
+#### DevOps & Tooling
+- Git, GitHub, GitLab  
+- Docker, Linux, Bash  
+- Azure (CI/CD, hosting, services)  
 
-</td><td valign="top" width="33%">
+---
 
+### 📌 What I focus on
+- Clean, maintainable code  
+- Well-structured APIs and data models  
+- Developer experience & automation  
+- Building tools that solve real problems
 
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafakanaan&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakanaan&layout=compact&theme=dark" height="165"/>
+</p>
 
-</td><td valign="top" width="33%">
+---
 
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
-</div>
-
-</td></tr></table>  
-
-</br>
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakanaan&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafakanaan&show_icons=true&theme=dark)
-
-</br>
-  
+💡 *Pinned repositories highlight projects I’m proud of and actively maintain.*
